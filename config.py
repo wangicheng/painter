@@ -1,0 +1,9 @@
+# Window
+ICON_PATH = 'icon.png'
+WINDOW_SIZE = '800x800'
+WINDOW_BG_COLOR = '#d0d9e8'
+WINDOW_TITLE = '大畫家'
+
+# Scale
+SCALE_SIZES = [0.125, 0.25, 0.5, 1, 2, 3, 4, 5, 6, 7, 8]
+SCALE_SIZE_DEFAULE_INDEX = 3
